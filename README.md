@@ -48,8 +48,9 @@ Sampled from the design tokens of [getsolco.com](https://getsolco.com).
 Original wallpapers made for this theme from the brand's own artwork:
 
 - `01-grooves.jpg`: The Solco record-groove mark centred with a soft violet glow on a faint beatgrid (bar lines every 4 beats), blue/orange corner glows from the hero
-- `02-waveform.jpg`: The site's three-band DJ waveform (blue lows, orange mids, cream highs) across the centre on a beatgrid with a red downbeat, fading at both ends
-- `03-vinyl.jpg`: A record seen from above, fine grooves lit by the blue-violet-orange gradient, the mark as its violet label
+- `02-lockup.jpg`: The logo with its name, centered
+- `03-waveform.jpg`: The site's three-band DJ waveform (blue lows, orange mids, cream highs) across the centre on a beatgrid with a red downbeat, fading at both ends
+- `04-vinyl.jpg`: A record seen from above, fine grooves lit by the blue-violet-orange gradient, the mark as its violet label
 
 ## Requirements
 
